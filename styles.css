@@ -1,0 +1,20 @@
+ .heading {
+    color:rgb(165, 42, 42);
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+ }
+ #about-img{
+    width: 300px;
+    border:#000 2px double;
+    padding: 5%;
+    margin-top: 6%;
+    margin-bottom: 4%;
+}
+
+.navigation {
+    list-style-type: none;
+   }
+
+
+
